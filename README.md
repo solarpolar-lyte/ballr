@@ -2,8 +2,20 @@
 facebook marketplace for nons
 
 
-<h1 style="color:blue;">A Blue Heading</h1>
 
+/* Change ALL paragraphs */
+p {
+    font-family: 'Roboto', sans-serif; /* Uses Google Font */
+    font-size: 16px;
+    color: blue;
+}
+
+/* Custom class for special text */
+.highlight {
+    font-size: 24px;
+    color: #00FF00; /* Hex color for green */
+    font-weight: bold;
+}
 
 
 
